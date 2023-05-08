@@ -1,6 +1,6 @@
-# Ragele api yapımı
+# 👋 Ragele api yapımı
 Bu proje sayesinde api yapabilirsiniz.
-### Yükleme
+### 📥 Yükleme
 Terminali açın ve şu kodu yazın :
 
 ```bash
@@ -12,7 +12,7 @@ node .
 ```
 Son olarak [api](http://localhost:3000/api/animals/) Gidin apiniz hazır ! 💚
 
-### Discord Hesabım 
+### 🗨️ Discord Hesabım 
 + Herhangi bir durumda yardım alabilirsiniz.
 
 [![Discord](https://lanyard.cnrad.dev/api/1085964318853566524)](https://discord.com/users/1085964318853566524)
